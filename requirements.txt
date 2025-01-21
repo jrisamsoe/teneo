@@ -1,5 +1,5 @@
 requests
-shareithub
+univ.pemulung.kripto
 aiohttp
 colorama
 fake_useragent
