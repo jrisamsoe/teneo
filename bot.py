@@ -2,14 +2,14 @@ import websocket
 import threading
 import json
 import time
-import shareithub
+import univ.pemulung.kripto
 import requests
 from fake_useragent import UserAgent
 from colorama import init, Fore
 from datetime import datetime
 from shareithub import shareithub
 
-shareithub()
+univ.pemulung.kripto()
 
 init(autoreset=True)
 
